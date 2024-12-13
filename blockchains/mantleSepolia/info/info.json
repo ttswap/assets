@@ -1,0 +1,11 @@
+{
+    "name": "Mantle Chain",
+    "website": "https://explorer.sepolia.mantle.xyz/",
+    "description": "Mantle Network is a technology stack for scaling Ethereum, and we strive to be EVM-compatible while doing so.",
+    "explorer": "https://explorer.sepolia.mantle.xyz/",
+    "symbol": "MNT",
+    "rpc_url": "https://rpc.sepolia.mantle.xyz",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active"
+}
